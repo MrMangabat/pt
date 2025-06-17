@@ -52,7 +52,7 @@
         <v-row>
           <v-col cols="2" />
           <v-col cols="8" class="text-center">
-            <v-btn color="primary" to="/screening" large>Get Started</v-btn>
+            <v-btn color="primary" nuxt to="/pricing" large>Get Started</v-btn>
           </v-col>
           <v-col cols="2" />
         </v-row>

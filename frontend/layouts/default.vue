@@ -4,6 +4,7 @@
       <v-toolbar-title>PT App</v-toolbar-title>
       <v-spacer />
       <v-btn text nuxt to="/landingpage">Home</v-btn>
+      <v-btn text nuxt to="/pricing">pricing</v-btn>
       <v-btn text nuxt to="/screening">Screening</v-btn>
       <v-btn text nuxt to="/training-progression">Training Progression</v-btn>
       <v-btn text nuxt to="/contact">Contact</v-btn>

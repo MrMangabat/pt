@@ -24306,5 +24306,32 @@
     "result_reaction": "lettere skuffet, men villig arbejde med det",
     "training_use_intent": "forbering",
     "should_prioritize": "gerne"
+  },
+  {
+    "name": "Lykke",
+    "date_of_birth": "1975-11-11",
+    "email": "lykke345@gmail.com",
+    "phone": "000000000",
+    "age": 50,
+    "weight": 0.0,
+    "height": 16463.0,
+    "notes": "",
+    "previous_injuries": "nope ingen",
+    "active_injuries": "nope",
+    "medications": "nej",
+    "pain_points": "",
+    "prior_training_types": "hold træning og gerne med flere mennesker",
+    "motivation_text": "zumba, spinning",
+    "goals": [
+      "cardio",
+      "functional"
+    ],
+    "test_type": "seismofit ",
+    "result": 24.7,
+    "vo2max_group": "low",
+    "why_test": "nysgerrig",
+    "result_reaction": "som forventet getting. ",
+    "training_use_intent": "vil gerne ",
+    "should_prioritize": "Gerne."
   }
 ]
